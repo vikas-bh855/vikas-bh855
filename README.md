@@ -12,10 +12,10 @@
 <!--
 **vikas-bh855/vikas-bh855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-:computer: I’m an Android Developer</br>
-:technologist: I have worked on many applications connected with Finance :bank:, Education :books: and OTT :tv:</br>
+:computer: I’m an Android Developer  </br>
+:technologist: I have worked on many applications connected with Finance :bank: Education :books: and OTT :tv:</br>
 :heart_eyes: In love with Motion Layout and Animations</br>
-:confetti_ball: Learning about JetPack Compose</br>
+:confetti_ball: Learning JetPack Compose</br>
 💬 Ask me about Kotlin</br>
 
 [![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikas-bh855)](https://github.com/vikas-bh855)
